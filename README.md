@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BernardoRB
+- 👀 I’m interested in databases
+- 🌱 I’m currently learning Data Engineering
